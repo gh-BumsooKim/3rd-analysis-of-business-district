@@ -1,6 +1,9 @@
 # analysis-of-business-district
 
-### **제3회 상권분석 빅데이터 경진대회**
+### **제3회 상권분석 빅데이터 경진대회** 
+주 최 : 서울신용재단 (SEOUL CREDIT GUARANTEE FOUNDATION)
+
+---
 
 팀 명 : 중앙대학교 ARENA
 
